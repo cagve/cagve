@@ -1,5 +1,7 @@
 ### 👋 Hi there!
- I’m Carlos Aguilera Ventura(@cagve) a philopher doing his PhD at LiLAC(IRIT). 
+ I’m Carlos Aguilera Ventura(@cagve) I hold a Bachelor degree in Philosophy and a Interuniversity Master in Logic and Philosopy of Science. I am currently doing my PhD at LiLAC(IRIT). I am working on modal logic and distance based belief revision. 
+
+### Research Interests
  - 📖 Modal and epistemic logic
  - 📖 Belief Revision
  - 📖 Automatic reasoning
