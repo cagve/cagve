@@ -1,11 +1,10 @@
 ### 👋 Hi there!
  I’m Carlos Aguilera Ventura(@cagve), I hold a Bachelor degree in Philosophy and a Interuniversity Master in Logic and Philosopy of Science. I am currently doing my PhD at [IRIT](https://www.irit.fr/) thanks to to a MESRI contract, under the supervision of Jonathan Ben-Naim and Andreas Herzig.
 
-#### PhD Topic
-When an agent learns a new piece of information that contradicts the beliefs she has held up to now then she has to give up some of the old beliefs. This is a pervasive problem in knowledge representation. The aim of the thesis is to study belief revision operations
-for modal logics in terms of distance based models, rationality postulates, and algorithms. 
+#### PhD topic
+When an agent learns a new piece of information that contradicts the beliefs she has held up to now then she has to give up some of the old beliefs. This is a pervasive problem in knowledge representation. The aim of the thesis is to study **belief revision operations**
+for *modal logics* in terms of **distance based models**, **rationality postulates**, and **algorithms**. 
 
-#### Research Interests
  - 📖 Modal and epistemic logic
  - 📖 Belief Revision
  - 📖 Automatic reasoning
