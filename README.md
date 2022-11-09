@@ -10,7 +10,7 @@ for *modal logics* in terms of **distance based models**, **rationality postulat
  - 📖 Automatic reasoning
 
 #### Projects
-- 🌱 [Epistemic Model Checker](https://github.com/cagve/EpistemicModelChecke) - A software tool for determining the truth value of modal formulas in Kripke-style multi-agent models.
+- 🌱 [Epistemic Model Checker](https://github.com/cagve/EpistemicModelChecker) - A software tool for determining the truth value of modal formulas in Kripke-style multi-agent models.
 - 🌲 [Epistemic Tableau System](https://github.com/cagve/epistemic-tree) - A tableau method implementation for epistemic logic.
 - ✍️ [LogiDoc](http://logidoc.es) - An easy tool for writting formulas. 
 - 🔥 [TexBox](https://github.com/cagve/texbox) - Just nvim + LaTeX
